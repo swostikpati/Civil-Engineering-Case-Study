@@ -1,14 +1,3 @@
-//***********************************************************************************//
-//** Author: Swostik Pati                                                          **//
-//** Date Created:                                                                 **//
-//** Assignment 1: Civil Engineering Case Study – Water Pressure Exerted on a Dam  **//
-//** ENGR-UH-1000 Computer Programming for Engineers, NYUAD                        **//
-//** Problem:                                                                      **//
-//** To contruct a menu driven program to calculate the force on the dam           **//
-//** at a given elevation, or the forces in a range of elevation.                  **//
-//***********************************************************************************//
-
-
 #include <iostream> //included input output stream
 #include <iomanip>  //included 'iomanip' for creating tables
 #include <cmath>    //included 'cmath' for computing complex mathmatical calculations
