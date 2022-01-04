@@ -165,9 +165,7 @@ Please enter the menu no:
 
 Thank you!...Exited.
 
-## Design of the algorithm and hand-solved problems
-
-### Test Cases
+## Test Cases
 
 ### Test Case 1: Invalid Selection Input
 
